@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lziv
+- 👋 Hi, I’m Sergio
 - 👀 I’m interested in Artificial Intelligence!!
 - 🌱 I’m currently learning how to build a website for my wife.
 - 💞️ I’m looking to collaborate on some open source projects.
